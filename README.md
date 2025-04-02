@@ -55,3 +55,19 @@ This project is a Google Apps Script solution that integrates Sport Club Interna
 
 ## Project Structure
 
+google-calendar-sc-internacional-games/ ├── README.md # This documentation ├── main.gs # Main Google Apps Script code
+
+## Contributing
+
+Contributions and suggestions are welcome! Feel free to open issues or submit pull requests.
+
+## Author
+
+Matheus Schebella  
+[matheus.schebella@gmail.com](mailto:matheus.schebella@gmail.com)
+
+---
+
+This project serves as a portfolio piece demonstrating the automation of match event integration into Google Calendar using Google Apps Script and API integration.
+
+
