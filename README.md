@@ -34,7 +34,7 @@ This project is a Google Apps Script solution that integrates Sport Club Interna
 ### Setup
 
  **Configure Your Google Apps Script Project:**
-   - Copy the contents of `Código.gs` into your Google Apps Script project.
+   - Copy the contents of `main.gs` into your Google Apps Script project.
    - Enable **Calendar API** in **Resources > Advanced Google Services**.
    - In the Google Cloud Console, make sure the Calendar API is enabled.
    - Replace placeholder values (such as your RapidAPI key) with your actual credentials.
